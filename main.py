@@ -8,6 +8,3 @@ def double_donut(income_list):
         if item == 0:
             result_list.append(item)
     return result_list
-
-
-print(double_donut([0,0,1,0]))
